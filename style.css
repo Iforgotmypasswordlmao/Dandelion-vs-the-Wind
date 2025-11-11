@@ -1,0 +1,17 @@
+#border {
+    position: absolute;
+}
+
+#direction {
+    border: 1px #000000 solid;
+    position: absolute;
+    z-index: 2;
+}
+
+#highlight {
+    position: absolute;
+}
+
+#counter {
+    border: 1px #000000 solid;
+}
